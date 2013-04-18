@@ -1,0 +1,7 @@
+data/*
+dev_output/*
+dev_queries/*
+output/*
+toy_example/*
+skeleton_code/*
+*.pyc
