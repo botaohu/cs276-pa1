@@ -1,7 +1,9 @@
 data/*
 dev_output/*
 dev_queries/*
-output/*
+output/*/index/*
+output/*/query_out/*
+output/*/query_out_dev/[1-8]
 toy_example/*
 skeleton_code/*
 *.pyc
