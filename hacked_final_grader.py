@@ -182,7 +182,7 @@ def getFiles(tempoutfile):
 def output(partIdx):
 
   #tempoutfile = tempfile.mkdtemp()
-  tempoutfile = '/Users/amber/Workspace/Stanford/CS276/PA1/Assignment/output'
+  tempoutfile = 'output'
   getFiles(tempoutfile)
   outputString = ''
   
